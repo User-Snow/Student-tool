@@ -1,4 +1,4 @@
-# coding-class-ppt — 程序设计小班课 PPT Skill (模板绝对约束版)
+# coding-class-ppt — 程序设计小班课 PPT Skill
 
 ## 功能
 当用户说“做一个程序设计小班课ppt”“程序设计ppt”“小班课ppt”时，自动执行完整流程：
