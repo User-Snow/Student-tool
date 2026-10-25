@@ -1,2 +1,2 @@
 # Student-tool
-A profile of useful student tool designed by myself
+A profile of useful student tools designed by myself
